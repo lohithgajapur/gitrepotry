@@ -14,7 +14,7 @@ public class TryTest {
 		 ChromeDriver driver=new ChromeDriver();
 		 driver.get("http://www.google.com");
 		 String s=driver.getTitle();
-		 System.out.println(s);
+		 System.out.println(s+"---------");
 		
 	}
 
