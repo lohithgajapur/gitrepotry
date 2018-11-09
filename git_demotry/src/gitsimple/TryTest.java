@@ -20,6 +20,7 @@ public class TryTest {
 		System.out.println("1min");
 		System.out.println("2min tag added");
 		System.out.println("tag proper");
+		System.out.println("v4.0");
 	}
 
 }
