@@ -17,7 +17,7 @@ public class TryTest {
 		 System.out.println(s+"---------");
 		 System.out.println("hello");
 		 System.out.println("llllooohhiittthh--");
-		
+		System.out.println("1min");
 	}
 
 }
