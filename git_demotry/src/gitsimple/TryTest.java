@@ -21,6 +21,7 @@ public class TryTest {
 		System.out.println("2min tag added");
 		System.out.println("tag proper");
 		System.out.println("v4.00");
+		System.out.println("simple branch------");
 	}
 
 }
